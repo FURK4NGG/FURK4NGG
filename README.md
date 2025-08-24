@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security<br>⚡ I’m currently learning Artificial Intelligence<br> 
+🔭 I’m currently working on IoT <br>⚡ I’m currently learning Artificial Intelligence<br> 
 
 
 ## 🌐 Socials:
