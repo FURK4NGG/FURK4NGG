@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+![Adam Badge](https://img.shields.io/badge/User-Adam-blue?style=for-the-badge&logo=person&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-karl%C4%B1o%C4%9Flu-71202b22a/) 
 
 # 💻 Tech Stack:
