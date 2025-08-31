@@ -12,4 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FURK4NGG&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FURK4NGG&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![snake gif](https://github.com/furk4ngg/furk4ngg/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://raw.githubusercontent.com/furk4ngg/furk4ngg/output/github-contribution-grid-snake.svg)
+
