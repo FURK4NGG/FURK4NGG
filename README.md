@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Adam Badge](https://img.shields.io/badge/:badgeContent?logo=person&label=My-Website)
+[![WebSite](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://furk4ngg.me/help) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-karl%C4%B1o%C4%9Flu-71202b22a/) 
 
 # 💻 Tech Stack:
