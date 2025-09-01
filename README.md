@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Form](https://img.shields.io/badge/GetInContact-%230077B5.svg?logo=linkedin&logoColor=white)]([https://furk4ngg.me/help](https://cloud.furk4ngg.me/apps/forms/s/eS7FcK9PB2KYFwaMM8NRs3cC)) 
+[![Form](https://img.shields.io/badge/GetInTouch-%230077B5.svg?logo=linkedin&logoColor=white)]([https://furk4ngg.me/help](https://cloud.furk4ngg.me/apps/forms/s/eS7FcK9PB2KYFwaMM8NRs3cC)) 
 [![WebSite](https://img.shields.io/badge/WebSite-%230077B5.svg?logo=linkedin&logoColor=white)](https://furk4ngg.me/help) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-karl%C4%B1o%C4%9Flu-71202b22a/) 
 
